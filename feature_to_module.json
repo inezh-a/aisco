@@ -25,5 +25,11 @@
 	],
 	"PaymentGateway": [
 		"aisco.donation.pgateway"
+	],
+	"Transfer": [
+		"aisco.donation.pgateway.transfer"
+	],
+	"Virtual": [
+		"aisco.donation.pgateway.virtual"
 	]
 }

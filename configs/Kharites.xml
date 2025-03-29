@@ -9,7 +9,7 @@
 	<feature manual="selected" name="Expense"/>
 	<feature automatic="selected" name="Donation"/>
 	<feature automatic="unselected" name="DirectPayment"/>
-	<feature manual="selected" name="PaymentGateway"/>
-	<feature name="Transfer"/>
-	<feature name="Virtual"/>
+	<feature automatic="selected" manual="selected" name="PaymentGateway"/>
+	<feature manual="selected" name="Transfer"/>
+	<feature automatic="unselected" name="Virtual"/>
 </configuration>
